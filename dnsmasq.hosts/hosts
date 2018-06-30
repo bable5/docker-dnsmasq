@@ -1,2 +1,6 @@
 # Place hosts files in this file for example:
 # 192.168.1.1  site1.mydomain.com
+192.168.1.54 ns1.bable5-2.ddns.net
+192.168.1.54 olivia.bable5-2.ddns.net
+
+192.168.1.15 vir.bable5-2.ddns.net
