@@ -17,5 +17,5 @@ docker rm $name
 --name=$name \
 -p=$MY_IP:53:5353/udp \
 --restart=always \
--d bable5/dnsmasq:1.0.0
+-d bable5/dnsmasq:2.0.0
 
